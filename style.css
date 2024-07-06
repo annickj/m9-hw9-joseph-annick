@@ -1,13 +1,13 @@
 :root {
-  --primary-color: #06b3bc;
+  --primary-color: #004548;
   --text-color: #042d2f;
   --text-color-lighter: #074c50;
   --secondary-color: #F78828;
   --warn-color: #FDD219;
-  --danger-color: #FA5456;
+  --danger-color: #9c0003;
   --white: #FFFFFF;
   --off-white: #F1F2F4;
-  --gray: #A1A1A1;
+  --gray: #313131;
 }
 
 body {
@@ -121,8 +121,6 @@ main > article img {
   height: auto;
   margin-bottom: 6px;
   margin-right: 20px;
-  /* margin-left: 50px; */
-
 }
 
 footer {
